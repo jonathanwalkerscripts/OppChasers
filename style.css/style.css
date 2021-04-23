@@ -426,15 +426,15 @@ header {
     }
 }
 
-/* a:hover,
+a:hover,
 a:focus-within {
 cursor: pointer;
 background: transparent;
 border-radius: 25px;
-color: #AB2F5F;
+color: #6141AC;
 margin: auto;
-background: black;
-} */
+background: white;
+}
 
 
 .Ahome {
@@ -646,7 +646,7 @@ article {
     }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 800px) {
     article {
         height: 590px;
         /* width: 649px; */
@@ -682,7 +682,7 @@ article {
    
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 700px) {
      .HeroImage {
         height: 100%;
         border-radius: 25px;
