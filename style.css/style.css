@@ -436,6 +436,24 @@ margin: auto;
 background: #A3326A;
 }
 
+.hoverbug1:hover { 
+    cursor: not-allowed;
+    background: transparent;
+    border-radius: 25px;
+    color: turquoise;
+    margin: auto;
+    background: blanchedalmond;
+}
+
+.hoverbug2:hover { 
+    cursor: not-allowed;
+    background: transparent;
+    border-radius: 25px;
+    color: #6141AC;
+    margin: auto;
+    background: #A3326A;
+}
+
 
 .Ahome {
     display: inline;
@@ -1108,6 +1126,15 @@ table .col{
     vertical-align: left;
     /* size: inherit; */      
 }
+
+/* .TeamLogoBoxImageBug {
+    width:30%;
+    height:30%;
+    border-radius: 50%;
+    display: inline;
+    vertical-align: left;
+    /* size: inherit; */      
+/* } */ 
 
 @media (min-width: 1000px) {
 .TeamLogoBoxImage {
